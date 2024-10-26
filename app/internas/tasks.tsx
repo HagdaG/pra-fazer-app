@@ -1,6 +1,6 @@
 import { StyleSheet, View, Text, TextInput, TouchableOpacity, Image } from "react-native";
 
-export default function tasks() {
+export default function Tasks() {
     return (
         <View style={styles.container}>
             <Text>Tasks</Text>
